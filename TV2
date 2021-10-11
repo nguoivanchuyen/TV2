@@ -235,8 +235,9 @@ https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 #https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
-http://112.197.12.62:80/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
+#http://112.197.12.62:80/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
 #http://112.197.12.62/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1628059615/cmc_new/img.live_channel/0/0/0/0/267.jpg", IN THE BOX
 #http://61.14.233.11:8000/play/itb/index.m3u8
@@ -244,10 +245,10 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF
 #http://61.14.233.11:5000/inthebox
 
 #EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/253.jpg",Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1583125607/cmc_new/img.live_channel/0/0/0/0/254.jpg",Planet Earth HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068739769.png",Happy Kids HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=http://sctvonline.vn/
@@ -271,10 +272,10 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWA
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V31Vtw1/t-i-xu-ng-2.jpg", DRFIT
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 EXTINF:-1 tvg-logo="https://kickmedia.tv/DrFit/DrFit_logo_last.png",DR FIT HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1,tvg-logo="https://idan.tv/img/cn/skynetsporthd.jpg", SKynet sport HD
 http://116.204.181.238:9981/stream/channelid/311832235?ticket=01C6CFE8553495320F80A470DBCE5552B9F5C266&profile=pass
@@ -373,7 +374,6 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndFlix.in.png", &FlixHD
 #https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png", &PriveHD
 #https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
