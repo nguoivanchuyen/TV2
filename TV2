@@ -324,11 +324,11 @@ http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u
 
 #EXTINF:-1 tvg-logo="https://www.tvcine.pt/actionlogo.svg", TVCine ACTION HD
 http://185.236.229.21:9981/play/a04n
-#EXTINF:-1,TVCine EDITION HD
+#EXTINF:-1 tvg-logo="https://www.tvcine.pt/editionlogo.svg", TVCine EDITION HD
 http://185.236.229.21:9981/play/a061
-#EXTINF:-1,TVCine EMOTION HD
+#EXTINF:-1 tvg-logo="https://www.tvcine.pt/emotionlogo.svg", TVCine EMOTION HD
 http://185.236.229.21:9981/play/a05z
-#EXTINF:-1,TVCine TOP HD
+#EXTINF:-1 tvg-logo="https://www.tvcine.pt/toplogo.svg", TVCine TOP HD
 http://185.236.229.21:9981/play/a04w
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
