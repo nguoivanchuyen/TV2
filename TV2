@@ -350,8 +350,12 @@ http://iptv-team.tk:2082/umi/umi/891
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #http://84.17.41.7/StarWorldHD-Hin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC9iODBiZDhkMy05NDFhLTQzYTktOTQ0Yy0wOTJlOWRkYjllMzcuanBn.jpg", Amedia HIT
+#EXTINF:-1 tvg-logo="http://only-tv.org/images/amedia-hit.png", Amedia HIT
 https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://only-tv.org/images/amedia_prem_hd.png", Amedia Premium HD
+http://mfe02.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png", BOO MOVIES
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
