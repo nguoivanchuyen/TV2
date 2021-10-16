@@ -353,6 +353,9 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC9iODBiZDhkMy05NDFhLTQzYTktOTQ0Yy0wOTJlOWRkYjllMzcuanBn.jpg", Amedia HIT
 https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png", BOO MOVIES
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/vip-premiere.png", VIP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/tv1000action.png", TV1000 Action
@@ -590,8 +593,6 @@ http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES",MOVIES GROUP
 http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="MOVIES",MOVIES GROUP
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 ,Gold Sagas ᴴᴰ  
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/174
