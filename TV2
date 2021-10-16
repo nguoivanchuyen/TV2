@@ -312,7 +312,7 @@ http://xcchui2.mrnova.online/live/60564_.m3u8?token=
 http://xcchui2.mrnova.online/live/60138_.m3u8?token=
 #EXTINF: -1 tvg-logo="https://lh5.googleusercontent.com/proxy/eMtdNdFX3rSJNdoaMPhoYtFjkOlIN6CMU_y1yh5G2IptK0jNbQaCpmhfpcDGYhum5cvZHGoDtaaRL8mtaA=w680", Fox Movies HD
 http://xcchui2.mrnova.online/live/60139_.m3u8?token=
-#EXTINF: -1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox-Action-Movies.png", Fox Actions HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png", Fox Actions HD
 http://xcchui2.mrnova.online/live/60140_.m3u8?token=
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/1280px-Fox_Crime_logo.svg.png", Fox Crime HD
 http://xcchui2.mrnova.online/live/60137_.m3u8?token=
