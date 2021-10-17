@@ -496,7 +496,8 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555",Aniplus
-http://topwin-tv.my.id/2/master.m3u8?id=aniplus
+#http://topwin-tv.my.id/2/master.m3u8?id=aniplus
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/103.m3u8
 
 #EXTINF:-1  tvg-logo="http://htvc.vn/uploads/editor/images/Logo%20Kenh/Logo-Da%20Vinci%20Learning.png", Da vinci Kids
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
