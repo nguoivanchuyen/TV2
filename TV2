@@ -81,14 +81,14 @@ https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+ Cine" group-title="K+",K+Cine HD
+#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+ Cine" group-title="K+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985674819/54e02ed63bbf_640_360.png", K+Cine HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=928663D27FF13A13&Ticket=B385AA3F12CC86AB
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="klifehd" tvg-name="K+ Cine" group-title="K+",K+Life HD
+#EXTINF:-1 tvg-id="klifehd" tvg-name="K+ Cine" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985751199/97936738e7a0_640_360.png" group-title="K+", K+Life HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=928663D27FF13A13&Ticket=B385AA3F12CC86AB
