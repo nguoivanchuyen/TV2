@@ -119,7 +119,7 @@ https://vstv.broadpeak-aas.com/live/prod_vtvcab3-thethaotv_fps/prod_vtvcab3-thet
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="K+ Cine" group-title="K+",K+ Bong Da TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000197&SessionId=xxx&Ticket=xxx
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=928663D27FF13A13&Ticket=B385AA3F12CC86AB
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_vtvcab16-bongdatv_fps/prod_vtvcab16-bongdatv_fps.isml/prod_vtvcab16-bongdatv_fps.mpd
 
@@ -574,15 +574,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-language="Vietnamese"  tvg-logo="https://i.postimg.cc/Y0tHXMBx/download-69.png",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="hbohitshd-asia" tvg-name="HBO Hits" tvg-language="Vietnamese"  tvg-logo="https://i.postimg.cc/Y0tHXMBx/download-69.png",HBO Hits HD Asia
 #https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-language="Vietnamese"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/HBO_Family_Asia.svg/revision/latest/scale-to-width-down/1000?cb=20201126025523",HBO FAMILY
+#EXTINF:-1 tvg-id="hbofamilyhd-asia" tvg-name="HBO Family" tvg-language="Vietnamese"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/HBO_Family_Asia.svg/revision/latest/scale-to-width-down/1000?cb=20201126025523",HBO Family HD Asia
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-language="Vietnamese" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/04/01/4212309559.jpg",HBO SIGNATURE
+#EXTINF:-1 tvg-id="hbosignaturehd-asia" tvg-name="HBO Signature" tvg-language="Vietnamese" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/04/01/4212309559.jpg",HBO Signature HD Asia
 #http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
