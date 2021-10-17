@@ -6,6 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000005
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://ottlivevng.kplus.vn/live/prod_vtv1_hd_fps/prod_vtv1_hd_fps.isml/prod_vtv1_hd_fps.mpd
+
 #EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KKIDS%20HD.png&w=267" group-title="K+",K+KIDS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -13,7 +14,24 @@ https://ottlivevng.kplus.vn/live/prod_vtv1_hd_fps/prod_vtv1_hd_fps.isml/prod_vtv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
 
-
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+ SPORT1" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KSPORT1%20HD.png" K+ SPORT1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=928663D27FF13A13&Ticket=B385AA3F12CC86AB
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vstv.broadpeak-aas.com/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ SPORT2" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KSPORT2%20HD.png" K+ SPORT2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=A1F842BE549A26DE&Ticket=ABE56DB9E041DC98
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ SPORT2" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KSPORT2%20HD.png" K+ SPORT2 link 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=928663D27FF13A13&Ticket=B385AA3F12CC86AB
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vstv.broadpeak-aas.com/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822360263/f573c3f2e120_180_180.png" tvg-chno="1" catchup="append" catchup-days="0.5" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
