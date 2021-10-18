@@ -582,7 +582,8 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hbohitshd-asia" tvg-name="HBO Hits" tvg-language="Vietnamese"  tvg-logo="https://i.postimg.cc/Y0tHXMBx/download-69.png",HBO Hits HD Asia
-#https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="hbofamilyhd-asia" tvg-name="HBO Family" tvg-language="Vietnamese"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/HBO_Family_Asia.svg/revision/latest/scale-to-width-down/1000?cb=20201126025523",HBO Family HD Asia
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
