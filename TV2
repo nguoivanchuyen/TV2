@@ -417,12 +417,9 @@ http://185.236.229.21:9981/play/a04w
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928287388476717_star-movies-hd.png", STAR MOVIES HD (IN)
+#EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928287388476717_star-movies-hd.png", STAR MOVIES HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #http://143.244.60.10/ENGLISH__STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-lg.jpg", STAR MOVIES HD
-http://84.17.41.7/StarMoviesHD-Hin/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Movies Selects" tvg-name="Star Movies Selects" tvg-language="English" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928260460340005_star-movies-select-hd.png" ,Star Movies Selects HD
 #http://143.244.60.10/ENGLISH__STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
