@@ -110,19 +110,19 @@ https://vstv.broadpeak-aas.com/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.is
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
 
-#EXTINF:0 tvg-id="klive1" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/K%20LIVE%201.png&w=600", K+Live1
+#EXTINF:0 tvg-id="klive1" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/K%20LIVE%201.png", K+Live1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000005&SessionId=C0854506147B44C3&Ticket=966D527AB8325EFD
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_1_fps/prod_mykplus_live_tv_1_fps.isml/prod_mykplus_live_tv_1_fps.mpd
 
-#EXTINF:0 tvg-id="klive2" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/K%20LIVE%202.png&w=600", K+Live2
+#EXTINF:0 tvg-id="klive2" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/K%20LIVE%202.png", K+Live2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000005&SessionId=C0854506147B44C3&Ticket=966D527AB8325EFD
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_2_fps/prod_mykplus_live_tv_2_fps.isml/prod_mykplus_live_tv_2_fps.mpd
 
-#EXTINF:0 tvg-id="klive3" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/K%20LIVE%203.png&w=600", K+Live3
+#EXTINF:0 tvg-id="klive3" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/K%20LIVE%203.png", K+Live3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000005&SessionId=C0854506147B44C3&Ticket=966D527AB8325EFD
