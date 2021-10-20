@@ -436,6 +436,11 @@ http://185.236.229.21:9981/play/a05z
 #EXTINF:-1 tvg-logo="https://www.tvcine.pt/toplogo.svg", TVCine TOP HD
 http://185.236.229.21:9981/play/a04w
 
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-trans-7-png-6.png" group-title="Lokal",TRANS TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 
@@ -458,6 +463,9 @@ https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/amedia_prem_hd.png", Amedia Premium HD
 http://mfe02.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd
+
+#EXTINF:-1 tvg-logo="http://only-tv.org/images/sts.png", CTC
+http://s91412.cdn.ngenix.net/mdrm/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png", BOO MOVIES
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
