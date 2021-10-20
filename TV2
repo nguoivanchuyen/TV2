@@ -81,31 +81,32 @@ https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+ Cine" group-title="K+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985674819/54e02ed63bbf_640_360.png", K+Cine HD
+#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+ Cine" group-title="K+" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KCINE%20HD.png", K+Cine HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=5D2E772C041091E3&Ticket=4A3D47AAA419DFA2
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=5D2E772C041091E3&Ticket=4A3D47AAA419DFA2, https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=7E1DFD41E5E920F5&Ticket=6F267FDC809C6EF6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985751199/97936738e7a0_640_360.png" group-title="K+", K+Life HD
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KLIFE%20HD.png" group-title="K+", K+Life HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=5D2E772C041091E3&Ticket=4A3D47AAA419DFA2
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=7E1DFD41E5E920F5&Ticket=6F267FDC809C6EF6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KSPORT1 HD.png", K+Sport1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KSPORT1%20HD.png", K+Sport1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=5D2E772C041091E3&Ticket=4A3D47AAA419DFA2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KSPORT2 HD.png", K+Sport2 HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KSPORT1%20HD.png", K+Sport2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=5D2E772C041091E3&Ticket=4A3D47AAA419DFA2
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=5D2E772C041091E3&Ticket=4A3D47AAA419DFA2, https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=7E1DFD41E5E920F5&Ticket=6F267FDC809C6EF6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
 
