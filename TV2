@@ -613,7 +613,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="hbohitshd-asia" tvg-name="HBO Hits" tvg-language="Vietnamese"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits HD Asia
+#EXTINF:-1 tvg-id="hbohitshd-asia" tvg-name="HBO Hits" tvg-language="Vietnamese"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/HBO_HiTS.svg/revision/latest/scale-to-width-down/250?cb=20100511073403",HBO Hits HD Asia
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
@@ -621,7 +621,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="hbosignaturehd-asia" tvg-name="HBO Signature" tvg-language="Vietnamese" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/04/01/4212309559.jpg",HBO Signature HD Asia
+#EXTINF:-1 tvg-id="hbosignaturehd-asia" tvg-name="HBO Signature" tvg-language="Vietnamese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/HBO_Signature_Asia.svg/revision/latest/scale-to-width-down/250?cb=20100511073847",HBO Signature HD Asia
 #http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
