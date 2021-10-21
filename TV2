@@ -593,7 +593,7 @@ http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://www.axn.pt/sites/pt.axn/files/spt_rebrand_overrides_header_logos/axnmovies_2015_white_magenta_rgb_endorsement_web.png",AXN Movies HD
 http://185.236.229.21:9981/play/a05l
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:AXN_WHITE.png", AXN WHITE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/AXN_WHITE.png", AXN WHITE
 http://185.236.229.21:9981/play/a05p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png",AXN ᴴᴰ
