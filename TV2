@@ -336,7 +336,7 @@ https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u
 #https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 #https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
 #http://112.197.12.62:80/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
@@ -348,7 +348,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
 #http://61.14.233.11:5000/inthebox
 
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/253.jpg",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/253.jpg",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1583125607/cmc_new/img.live_channel/0/0/0/0/254.jpg",Planet Earth HD
@@ -371,7 +371,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sc
 #https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V31Vtw1/t-i-xu-ng-2.jpg", DRFIT
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/V31Vtw1/t-i-xu-ng-2.jpg", Dr.Fit HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 EXTINF:-1 tvg-logo="https://kickmedia.tv/DrFit/DrFit_logo_last.png", DRFIT HD
@@ -471,7 +471,7 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/amedia-hit.png", Amedia HIT
 #https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 #https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
-http://46.34.209.243/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
+http://46.34.209.243/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
 
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/amedia_prem_hd.png", Amedia Premium HD
 http://mfe02.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd
@@ -480,25 +480,35 @@ http://mfe02.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd
 http://s91412.cdn.ngenix.net/mdrm/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/dom-kino-premium.png", Дом кино HD
-http://37.99.5.235:80/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
+http://37.99.5.235:80/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_7200p_3500kbps.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png", BOO MOVIES
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/vip-premiere.png", VIP Premiere
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/720p.m3u8
+
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/tv1000action.png", TV1000 Action
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/720p.m3u8
+
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/TV1000.png", TV1000
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/720p.m3u8
+
 #EXTINF:0 tvg-logo="http://only-tv.org/images/vip-comedy.png",VIP Comedy
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/720p.m3u8
+
 #EXTINF:0 tvg-logo="http://only-tv.org/images/vip-megahit.png",VIP Megahit
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/720p.m3u8
+
 #EXTINF:0 tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/uploads/store/dictionaries/channels/logos/7e9a3456a7d0232aebe4c8791d334d8d.png",VIP Serial
-https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/720p.m3u8
+
 #EXTINF:0 tvg-logo="http://only-tv.org/images/viasat_his.png", Viasat History
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndFlix.in.png", &FlixHD
