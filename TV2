@@ -244,19 +244,19 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv17/sd1/index.m3u8?md5=Ta95m8zja
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://tva-101vn-com.cdn.ampproject.org/ii/AW/tva.101vn.com/images/sctv18.png",SCTV18 HD
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv18/sd1/index.m3u8?md5=LpLRftYMafDSOLR-TKK6Mw&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://postimg.cc/HjzM11nk",SCTV19 HD
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/KvPT4FbP/sctv19hd.png",SCTV19 HD
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv19/sd1/index.m3u8?md5=uMR0F1oSOwIfKPtt7-a4xg&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://postimg.cc/hhBNyj26",SCTV20 HD
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/qvp33YB9/sctv20hd.png",SCTV20 HD
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv20/sd1/index.m3u8?md5=lb0MLr7Ra4oiddBQkWvAug&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://postimg.cc/rDKH0tp0",SCTV 21HD
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/g246qDnr/sctv21hd.png",SCTV 21HD
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv21/sd1/index.m3u8?md5=AxvpNDs0N57nBjln7px0IA&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://postimg.cc/2qWXTRhC",SCTV 22 HD
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.postimg.cc/gjRZVbZP/sctv22hd.png",SCTV 22 HD
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC37imEmBeKk0EQ&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://postimg.cc/tsKgJ7Dn", SCTV HD Phim Tổng Hợp
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.postimg.cc/zfBHdgg7/sctvhdpth.png", SCTV HD Phim Tổng Hợp
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="btv5" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-SMisJzyvdeY/WpOJ0aqJp-I/AAAAAAAAD0Q/AtOsrxDYZtA1V5k-r1zCdRuvi1dmGR5eACLcBGAs/h350/logo_nen3_17_1516171532.png", BTV 5 HD
