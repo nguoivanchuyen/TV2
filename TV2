@@ -438,7 +438,7 @@ http://xcchui2.mrnova.online/live/60136_.m3u8?token=
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/19/1-1Z406134234147.jpg", CHC
 http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvcine.pt/actionlogo.svg", TVCine ACTION HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v86Dm3xJ/actionlogo.png", TVCine ACTION HD
 http://185.236.229.21:9981/play/a04n
 #EXTINF:-1 tvg-logo="https://www.tvcine.pt/editionlogo.svg", TVCine EDITION HD
 http://185.236.229.21:9981/play/a061
@@ -480,7 +480,7 @@ http://mfe02.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd
 http://s91412.cdn.ngenix.net/mdrm/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/dom-kino-premium.png", Дом кино HD
-http://37.99.5.235:80/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_7200p_3500kbps.m3u8
+http://37.99.5.235:80/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_720p_3500kbps.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png", BOO MOVIES
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
