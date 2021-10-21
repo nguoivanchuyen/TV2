@@ -440,11 +440,11 @@ http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v86Dm3xJ/actionlogo.png", TVCine ACTION HD
 http://185.236.229.21:9981/play/a04n
-#EXTINF:-1 tvg-logo="https://www.tvcine.pt/editionlogo.svg", TVCine EDITION HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/H8dfqQVG/editionlogo.png", TVCine EDITION HD
 http://185.236.229.21:9981/play/a061
-#EXTINF:-1 tvg-logo="https://www.tvcine.pt/emotionlogo.svg", TVCine EMOTION HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RWYxW6bf/emotionlogo.png", TVCine EMOTION HD
 http://185.236.229.21:9981/play/a05z
-#EXTINF:-1 tvg-logo="https://www.tvcine.pt/toplogo.svg", TVCine TOP HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HcQqvSW4/toplogo.png", TVCine TOP HD
 http://185.236.229.21:9981/play/a04w
 
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-trans-7-png-6.png" group-title="Lokal",TRANS TV
