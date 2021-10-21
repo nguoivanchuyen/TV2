@@ -458,8 +458,9 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #http://84.17.41.7/StarWorldHD-Hin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/amedia-hit.png", Amedia HIT
-https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 #https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+http://46.34.209.243/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
 
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/amedia_prem_hd.png", Amedia Premium HD
 http://mfe02.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd
@@ -612,7 +613,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="hbohitshd-asia" tvg-name="HBO Hits" tvg-language="Vietnamese"  tvg-logo="https://i.postimg.cc/Y0tHXMBx/download-69.png",HBO Hits HD Asia
+#EXTINF:-1 tvg-id="hbohitshd-asia" tvg-name="HBO Hits" tvg-language="Vietnamese"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits HD Asia
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
