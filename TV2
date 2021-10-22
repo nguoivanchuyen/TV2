@@ -466,9 +466,12 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #http://103.112.55.180:8080/play/a033
 http://iptv-team.tk:2082/umi/umi/891
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8f/Star_World_HD_India.png", STAR WORLD HD (IN)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8f/Star_World_HD_India.png", STAR WORLD HD
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #http://84.17.41.7/StarWorldHD-Hin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.wowow.co.jp/ml/cinefil/img/title.png", シネフィルWOWOW
+http://203.162.235.41:16916
 
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/amedia-hit.png", Amedia HIT
 #https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
