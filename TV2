@@ -351,6 +351,9 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/253.jpg",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
+#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://8387a88d1b.vws.vegacdn.vn/Media/files/channels/thumb_1626834087channel3_BoxHit.png", Box Hits HD
+http://103.195.238.226/boxhits/mpegts
+
 #EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1583125607/cmc_new/img.live_channel/0/0/0/0/254.jpg",Planet Earth HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
