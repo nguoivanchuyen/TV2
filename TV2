@@ -461,7 +461,7 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #http://143.244.60.10/ENGLISH__STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-id="Star Movies Selects" tvg-name="Star Movies Selects" tvg-language="English" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928260460340005_star-movies-select-hd.png" ,Star Movies Selects HD
+#EXTINF:-1 tvg-id="Star Movies Selects" tvg-name="Star Movies Selects" tvg-language="English" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928260460340005_star-movies-select-hd.png",Star Movies Selects HD
 #http://143.244.60.10/ENGLISH__STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 #http://103.112.55.180:8080/play/a033
 http://iptv-team.tk:2082/umi/umi/891
@@ -472,6 +472,28 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.wowow.co.jp/ml/cinefil/img/title.png", シネフィルWOWOW
 http://203.162.235.41:16916
+
+#EXTINF:-1 tvg-logo="http://albepg.com/tvlogi/Film Hits.png",Film Hits
+http://us.bestvideostreaming.is/8755/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Film Komedi.png", Film Komedi
+http://www.knaqu.tv/live/filmkomedi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Film Drame.png", Film Drame
+http://www.knaqu.tv/live/drame.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Film Hits.png", Film Hits
+http://www.knaqu.tv/live/hits.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Film Aksion.png", Film Aksion
+http://www.knaqu.tv/live/aksion.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Film Nje HD.png",Film NJE
+http://www.knaqu.tv/live/nje.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Film Dy HD.png", Film dy
+http://www.knaqu.tv/live/dy.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Film Thriller.png", Film Stinet
+http://www.knaqu.tv/live/filmstinet.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Film Thriller.png", Film Thriller
+http://www.knaqu.tv/live/thriller.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Film Thriller.png", Film Autor
+http://www.knaqu.tv/live/autor.m3u8
 
 #EXTINF:-1 tvg-logo="http://only-tv.org/images/amedia-hit.png", Amedia HIT
 #https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
