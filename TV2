@@ -7,7 +7,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="",KCine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://lic02-vt.baochinh.me/clearkey/4a4d4a6430724c54394c774371617446474e2f466b496a5151344f44/1650556857/kcinehd.key
+#KODIPROP:inputstream.adaptive.license_key=https://net.baochinh.me/player/getWidevineDRM/kcinehd
 https://sglive.vegacdn.kplus.vn/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 
