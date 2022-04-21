@@ -12,6 +12,8 @@ https://sglive.vegacdn.kplus.vn/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 
 
+#EXTINF:0 tvg-id="vtv1hd"group-title="VTV" ,789
+http://nodea.vladruman.com:8080/hls/001.m3u8|Referer=http://xestreams.com/
 
 
 
