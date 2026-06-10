@@ -69,3 +69,27 @@ http://45.136.153.199:80/BabesTV/mono.m3u8
 http://45.136.153.199:80/RealityKings/mono.m3u8
 #EXTINF:-1,BangU
 http://45.136.153.199:80/BangU/mono.m3u8
+#EXTINF:-1,EraTV
+http://45.136.153.199:80/EraTV/mono.m3u8
+#EXTINF:-1,Private HD
+http://45.136.153.199:80/Private/mono.m3u8
+#EXTINF:-1,Hustler HD
+http://45.136.153.199:80/Hustler/mono.m3u8
+#EXTINF:-1,Dorcel HD
+http://45.136.153.199:80/DorcelHD/mono.m3u8
+#EXTINF:-1,Dorcel XXX HD
+http://45.136.153.199:80/DorcelXXXHD/mono.m3u8
+#EXTINF:-1,FrenchLover HD
+http://45.136.153.199:80/FrenchLover/mono.m3u8
+#EXTINF:-1,Babes TV
+http://45.136.153.199:80/BabesTV/mono.m3u8
+#EXTINF:-1,Reality Kings
+http://45.136.153.199:80/RealityKings/mono.m3u8
+#EXTINF:-1,BangU
+http://45.136.153.199:80/BangU/mono.m3u8
+#EXTINF:-1,Playboy TV HD
+http://45.136.153.199:80/PlayboyHD/mono.m3u8
+#EXTINF:-1,penthouse1
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+#EXTINF:-1,penthouse2
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
